@@ -1,0 +1,19 @@
+name = "mintmatrix/state-matrix"
+version = "0.0.1"
+license = "Apache-2.0"
+description = "Aiken contracts for project 'mintmatrix/asset-transfer'"
+
+[repository]
+user = "mintmatrix"
+project = "state-matrix"
+platform = "github"
+
+[[dependencies]]
+name = "aiken-lang/stdlib"
+version = "2.0.0"
+source = "github"
+
+[[dependencies]]
+name = "aiken-lang/fuzz"
+version = "main"
+source = "github"

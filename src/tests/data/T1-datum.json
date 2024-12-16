@@ -1,0 +1,20 @@
+{
+  "t_0": null,
+  "x": 500,
+  "y": 500,
+  "z": 500,
+  "x_dot": 0,
+  "y_dot": 0,
+  "z_dot": 0,
+  "param": {
+    "a":    1,
+    "b":    2,
+    "c":    3,
+    "owner": null,
+    "asset": {
+      "policy":   "07a4c2fa1b3c6dba619c50db72c1a313a989f242a7c51884079daf0c",
+      "asset_name":  "TestToken",
+      "quantity":    1
+    }
+  }
+}
